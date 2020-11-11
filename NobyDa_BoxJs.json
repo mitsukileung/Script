@@ -90,6 +90,15 @@
         "key": "TakeaLook",
         "label": "京东看看"
       }, {
+        "key": "JDComputer",
+        "label": "京东电脑"
+      }, {
+        "key": "JDConstell",
+        "label": "京东京鱼"
+      }, {
+        "key": "JDSuitcase",
+        "label": "京东箱包"
+      }, {
         "key": "JDToyMusic",
         "label": "京东乐器"
       }, {
